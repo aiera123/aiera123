@@ -1,8 +1,4 @@
 - 👋 Hi, I’m Anuradhaa
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
   
 
