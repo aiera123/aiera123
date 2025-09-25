@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anuradhaa
 - 😄 Pronouns: she/her
 - 📫 How to reach me: aiera2876@gmail.com
-   ❤️ I love fun facts🤪
+- ❤️ I love fun facts🤪
   
 
 <!---
