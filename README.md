@@ -18,6 +18,7 @@
 ![React](https://img.shields.io/badge/React-blue)
 ![C#](https://img.shields.io/badge/C%23-purple)
 ![.NET](https://img.shields.io/badge/.NET-purple)
+![Next js](https://img.shields.io/badge/Next-js-green)
 
 ---
 
