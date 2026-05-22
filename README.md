@@ -22,26 +22,25 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiera123&show_icons=true&theme=tokyonight)
+//## 📊 GitHub Stats
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiera123&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=aiera123&theme=tokyonight)
+//## 🔥 GitHub Streak
+//![GitHub Streak](https://streak-stats.demolab.com?user=aiera123&theme=tokyonight)
 
 ---
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiera123&layout=compact&theme=tokyonight)
+//## 📈 Most Used Languages
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiera123&layout=compact&theme=tokyonight)
 
 
 ---
 
 ## 📫 Connect with me
 - GitHub: https://github.com/aiera123
-
-- <!---
+ <!---
 aiera123/aiera123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
