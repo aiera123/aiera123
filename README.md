@@ -2,6 +2,7 @@
 - 😄 Pronouns: she/her
 - 📫 How to reach me: aiera2876@gmail.com
 - ❤️ I can cook delicious food and still debug code at the same time 😄
+- ![Profile Views](https://komarev.com/ghpvc/?username=aiera123&color=blue)
   
 
 <!---
